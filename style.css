@@ -1,0 +1,149 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;1,400&display=swap");
+body {
+  background-color: Gainsboro;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 600px;
+  font-style: oblique;
+  font-display: auto;
+  font-stretch: narrower;
+  text-transform: normal;
+  margin-bottom: 30px;
+}
+.container img {
+  box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
+  border-radius: 28px;
+}
+
+.info-text {
+  margin-left: 45px;
+  margin-top: 0px;
+}
+
+.info {
+  display: flex;
+  padding-top: 0px;
+}
+
+.info-text p {
+  font-style: oblique;
+  font-weight: bold;
+  margin: 0;
+}
+
+/* способы подбора цветов:
+body {
+    1)color: red or #4B0082: первые 2 значения отвечают за красный цвет, следующие 2-за зеленый, последние 2-за синий;
+значения могут быть от 0 до FF(макс.)
+    2) ввести в гугле css colors
+    3) color: rgd(255,0,0); значения от 0 до 255
+    4)color: rgda(0,0,0,0.5); 4-й параметр-это прозрачность (от 0 до 1)
+
+} */
+
+.card1 {
+  background-color: #faebd7;
+  border-radius: 10px;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+  padding-left: 10px;
+}
+
+.card1 h2 {
+  padding-top: 10px;
+  padding-left: 8px;
+}
+
+.card2 {
+  background-color: #add8e6;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+
+.card2 h2 {
+  padding-top: 10px;
+  padding-left: 6px;
+}
+
+.table td {
+  padding-left: 10px;
+}
+
+.card3 {
+  background-color: #f0fff0;
+  border-radius: 10px;
+  padding-left: 14px;
+  padding-bottom: 10px;
+}
+
+.card3 h2 {
+  padding-top: 10px;
+  padding-left: 4px;
+  text-align: center;
+}
+
+.container {
+  max-width: 750px;
+  margin: auto;
+  padding-top: 10px;
+}
+
+.container ol {
+  padding-left: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+a:active {
+  color: RED;
+}
+
+a:visited {
+  color: grey;
+}
+
+.btn {
+  background: black;
+  color: white;
+  padding: 10px 20px 10px 20px;
+  margin-left: 4px;
+  font-family: inherit;
+  cursor: pointer;
+}
+
+.btn:hover {
+  opacity: 0.8;
+}
+
+.input label {
+  display: flex;
+  font-size: 14px;
+}
+
+.input input,
+textarea {
+  width: 50%;
+  margin-right: 20px;
+  background: transparent;
+  font-family: inherit;
+  color: black;
+}
+
+@media (max-width: 650px) {
+  .info {
+    font-size: 1rem;
+    padding: 10px;
+    text-align: center;
+    display: block;
+  }
+}
