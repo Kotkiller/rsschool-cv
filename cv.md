@@ -1,7 +1,7 @@
 
 # Hi everyone!! My name is Evgeniy Bliznets
 
-![avatar](/img/1.jpg "My photo")
+![avatar](/1.jpg "My photo")
 
 ## I'm working as mechanical engineer in pharmaceutical company. I would like to be a JS developer in future.
 
@@ -26,6 +26,9 @@
 -----------     |:-------: 
 Integral        | 2009-2011
 Pharmtechnology | 2011-now
+
+## English level
+B1
 
 ## My contacts:
 +375292407970
