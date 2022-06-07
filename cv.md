@@ -7,13 +7,13 @@
 
 # My socials:
 
-[Instagram] (instagram.com)
+[Instagram] (https://instagram.com)
 
-[VK] (vk.com)
+[VK] (https://vk.com)
 
-[Telegram] (telegram.com)
+[Telegram] (https://telegram.com)
 
-[Facebook] (facebook.com)
+[Facebook] (https://facebook.com)
  
 ## My hobbies:
 * Learning JS
