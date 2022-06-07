@@ -7,13 +7,13 @@
 
 # My socials:
 
-[instagram.com] (Instagram)
+[Instagram] (instagram.com)
 
-[vk.com] (Vkontakte)
+[VK] (vk.com)
 
-[telegram.com] (Telegram)
+[Telegram] (telegram.com)
 
-[facebook.com] (Facebook)
+[Facebook] (facebook.com)
  
 ## My hobbies:
 * Learning JS
@@ -33,4 +33,4 @@ B1
 ## My contacts:
 +375292407970
 
-[kotkiller@inbox.ru] (Email)
+[My email] (kotkiller@inbox.ru)
