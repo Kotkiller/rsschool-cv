@@ -18,6 +18,7 @@
 * Watching films
  
 ## Work experience
+
   Company       | Years 
 -----------     |:-------: 
 Integral        | 2009-2011
