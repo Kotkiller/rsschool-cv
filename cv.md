@@ -12,6 +12,8 @@
 [vk.com] (Vkontakte)
 
 [telegram.com] (Telegram)
+
+[facebook.com] (Facebook)
  
 ## My hobbies:
 * Learning JS
