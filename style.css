@@ -83,9 +83,9 @@ body {
 }
 .aboutme {
   margin-top: 40px;
-  margin-left: 
   border-bottom: 15px solid white;
   height: 300px;
+  width: 100%;
 }
 
 .description {
@@ -155,22 +155,18 @@ body {
   transition: color 0.5s;
 }
 
-.website{
+.cv, .website,
+.calc,
+.momentum,
+.codejam,
+.travel {
   text-decoration: none;
-  color: #D3D3D3;
+  color: white;
 }
 
-.website:hover{
-  color: #808080;
-}
-
-.calc {
-  text-decoration: none;
-  color: #D3D3D3;
-}
-
-.calc:hover {
-  color: #808080;
+a:hover{
+color:#808080;
+transition:0.5s;
 }
 
 #education {
