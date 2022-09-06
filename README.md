@@ -1,1 +1,1 @@
-https://kotkiller.github.io/rsschool-cv/
+https://kotkiller.github.io/rsschool-cv/cv
