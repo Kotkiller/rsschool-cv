@@ -27,6 +27,11 @@
 Integral        | 2009-2011
 Pharmtechnology | 2011-now
 
+## My projects:
+* Travel
+* Momentum
+* 
+
 ## English level
 B1
 
